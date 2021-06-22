@@ -23,5 +23,6 @@ class MovieActivity : AppCompatActivity() {
         imgCover.setImageDrawable(drawable)
 
 
+
     }
 }
